@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { MarginsOff } from 'styles/global';
+import { MarginsOff } from '../../styles/global';
 
 export const Wrapper = styled.main`
   align-items: center;
