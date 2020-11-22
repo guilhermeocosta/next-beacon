@@ -11,7 +11,9 @@ const Main = ({
     />
     <S.Description>{description}</S.Description>
 
-    <S.Link href="https://google.com">{linkText}</S.Link>
+    <S.Link href="https://github.com/guilhermeocosta/next-beacon">
+      {linkText}
+    </S.Link>
   </S.Wrapper>
 );
 

@@ -51,7 +51,7 @@ exports[`<Main /> should render correctly 1`] = `
   </h2>
   <a
     class="c3"
-    href="https://google.com"
+    href="https://github.com/guilhermeocosta/next-beacon"
   >
     Get started
   </a>
