@@ -6,8 +6,7 @@ describe('<Main />', () => {
   it('should render correctly', () => {
     const { container } = render(<Main />);
 
-    expect(screen.getByRole('heading', { name: /next beacon/i }))
-      .toBeInTheDocument;
+    expect(screen.getByRole('img', { name: /next beacon/i })).toBeInTheDocument;
 
     expect(container.firstChild).toMatchSnapshot();
   });

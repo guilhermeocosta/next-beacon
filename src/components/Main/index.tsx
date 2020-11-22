@@ -5,10 +5,10 @@ const Main = ({
   linkText = 'Get started',
 }) => (
   <S.Wrapper>
-    <S.Title>
-      <S.Logo src="/images/logo.svg" alt="Vector of a Penrose Square" />
-      Next<S.Highlight>Beacon</S.Highlight>
-    </S.Title>
+    <S.Logo
+      src="/images/logo.svg"
+      alt="Vector of a Penrose Square with Next Beacon written on the right side"
+    />
     <S.Description>{description}</S.Description>
 
     <S.Link href="https://google.com">{linkText}</S.Link>

@@ -13,7 +13,6 @@ exports[`<Main /> should render correctly 1`] = `
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  height: 100%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -23,75 +22,35 @@ exports[`<Main /> should render correctly 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  display: -webkit-inline-box;
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-  font-size: 6rem;
-  font-weight: 400;
-}
-
-.c1 * + * {
-  margin-top: 0;
-}
-
-.c3 {
-  color: #e94560;
-  font-weight: 800;
-  -webkit-transform: translateY(0.2rem);
-  -ms-transform: translateY(0.2rem);
-  transform: translateY(0.2rem);
+  margin-right: 2rem;
+  width: min(100%,80rem);
 }
 
 .c2 {
-  margin-right: 2rem;
-  width: 10rem;
-}
-
-.c4 {
   max-width: 80rem;
   font-size: 2.2rem;
   font-weight: 400;
 }
 
-.c5 {
+.c3 {
   font-size: 2.2rem;
-  color: #fff;
-}
-
-.c5:hover {
-  color: #e94560;
 }
 
 <main
   class="c0"
 >
-  <h1
+  <img
+    alt="Vector of a Penrose Square with Next Beacon written on the right side"
     class="c1"
-  >
-    <img
-      alt="Vector of a Penrose Square"
-      class="c2"
-      src="/images/logo.svg"
-    />
-    Next
-    <strong
-      class="c3"
-    >
-      Beacon
-    </strong>
-  </h1>
+    src="/images/logo.svg"
+  />
   <h2
-    class="c4"
+    class="c2"
   >
     React SSR boilerplate made on top of NextJS with the power of Typescript, Styled Components, Jest, Testing Library and infinite possibilities.
   </h2>
   <a
-    class="c5"
+    class="c3"
     href="https://google.com"
   >
     Get started
