@@ -1,10 +1,11 @@
-![Next Beacon](https://raw.githubusercontent.com/guilhermeocosta/next-beacon/main/public/images/logo.svg)
+<img src="https://raw.githubusercontent.com/guilhermeocosta/next-beacon/main/public/images/logo.svg" alt="Next Beacon" width="500" />
 
 ![ci](https://github.com/guilhermeocosta/next-beacon/workflows/ci/badge.svg)
 ![version](https://img.shields.io/github/package-json/v/guilhermeocosta/next-beacon)
-## What is inside?
 
-Tools:
+## What is inside
+
+Next Beacon brings a complete set of modern tools and libraries, including:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
