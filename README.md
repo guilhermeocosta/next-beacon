@@ -19,7 +19,7 @@ Tools:
 
 ## Getting Started
 
-First, create a new project on top of React Beacon with the following command:
+First, create a new project on top of Next Beacon with the following command:
 
 ```bash
 yarn create next-app -e https://github.com/guilhermeocosta/next-beacon
