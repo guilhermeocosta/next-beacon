@@ -1,0 +1,21 @@
+{
+  "name": "NextBeacon",
+  "short_name": "NextBeacon",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#e94560",
+  "description": "Boilerplate built on top of NextJS with the power of Typescript, Styled Components, Jest, Testing Library and so much more!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#e94560"
+}
