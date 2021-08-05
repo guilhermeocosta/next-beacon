@@ -11,6 +11,7 @@
     "test:watch": "yarn test --watch",
     "storybook": "start-storybook -s ./public -p 6006",
     "storybook:build": "build-storybook -s ./public",
+    "chromatic": "chromatic --exit-zero-on-changes",
     "generate": "yarn plop --plopfile generators/plopfile.js"
   },
   "husky": {
@@ -48,6 +49,7 @@
     "@typescript-eslint/parser": "^4.29.0",
     "babel-loader": "^8.2.2",
     "babel-plugin-styled-components": "^1.13.2",
+    "chromatic": "^5.10.0-canary.0",
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.0.1",
     "eslint-config-prettier": "^8.3.0",
