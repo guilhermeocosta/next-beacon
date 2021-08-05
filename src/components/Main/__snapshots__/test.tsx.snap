@@ -30,6 +30,7 @@ exports[`<Main /> should render correctly 1`] = `
   max-width: 80rem;
   font-size: 2.2rem;
   font-weight: 400;
+  color: red;
 }
 
 .c3 {

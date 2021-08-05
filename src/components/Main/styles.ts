@@ -18,6 +18,7 @@ export const Description = styled.h2`
   max-width: 80rem;
   font-size: 2.2rem;
   font-weight: 400;
+  color: red;
 `;
 
 export const Link = styled.a`
