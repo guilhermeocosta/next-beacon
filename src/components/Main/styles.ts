@@ -21,5 +21,5 @@ export const Description = styled.h2`
 `;
 
 export const Link = styled.a`
-  font-size: 2.2rem;
+  font-size: 3.2rem;
 `;
