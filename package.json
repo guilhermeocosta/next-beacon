@@ -11,7 +11,7 @@
     "test:watch": "yarn test --watch",
     "storybook": "start-storybook -s ./public -p 6006",
     "storybook:build": "build-storybook -s ./public",
-    "chromatic": "chromatic --exit-zero-on-changes",
+    "chromatic": "chromatic --exit-zero-on-changes --skip 'dependabot/**'",
     "generate": "yarn plop --plopfile generators/plopfile.js"
   },
   "husky": {
