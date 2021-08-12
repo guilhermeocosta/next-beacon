@@ -8,6 +8,12 @@ All notable changes to this project will be documented in this file. The format 
 
 ## 1.1.0 - 2021-08-12
 
+### Security
+
+- Upgrade Next to >= [v11.1.0](https://github.com/vercel/next.js/releases/tag/v11.1.0).
+
+## 1.0.0 - 2021-08-12
+
 ### Added
 
 - Start to support the CHANGELOG file.
