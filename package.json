@@ -15,14 +15,7 @@
     "storybook:build": "build-storybook -s ./public",
     "chromatic": "chromatic --exit-zero-on-changes --skip 'dependabot/**'",
     "generate": "yarn plop --plopfile generators/plopfile.js",
-    "prepare": "husky install",
-    "lint-staged": "lint-staged"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn run lint-staged",
-      "pre-push": "yarn test"
-    }
+    "prepare": "husky install"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx}": [
@@ -63,7 +56,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "husky": "^7.0.0",
+    "husky": "^7.0.1",
     "jest": "^27.0.6",
     "jest-styled-components": "^7.0.5",
     "lint-staged": "^11.1.2",
