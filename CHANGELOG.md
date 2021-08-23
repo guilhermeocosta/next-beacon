@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file. The format 
 
 ## Unreleased
 
-- Nothing to show here (atm).
+### Dependencies
+
+- Upgrade @types/node
+- Upgrade @types/react
+- Upgrade @typescript-eslint/eslint-plugin
+- Upgrade @typescript-eslint/parser
+- Upgrade cypress
+- Upgrade eslint-plugin-prettier
 
 ## 1.1.0 - 2021-08-12
 
