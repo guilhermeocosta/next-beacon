@@ -8,10 +8,17 @@ All notable changes to this project will be documented in this file. The format 
 
 - Upgrade @types/node
 - Upgrade @types/react
+- Upgrade @types/styled-components
 - Upgrade @typescript-eslint/eslint-plugin
 - Upgrade @typescript-eslint/parser
 - Upgrade cypress
 - Upgrade eslint-plugin-prettier
+- Upgrade eslint-plugin-react
+- Upgrade jest
+
+### Changed
+
+- Disable "react/display-name" rule from eslint
 
 ## 1.1.0 - 2021-08-12
 
