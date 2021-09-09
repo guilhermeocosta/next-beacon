@@ -6,15 +6,22 @@ All notable changes to this project will be documented in this file. The format 
 
 ### Dependencies
 
+- Upgrade @babel/core
+- Upgrade @storybook/addon-essentials
+- Upgrade @storybook/react
+- Upgrade @testing-library/cypress
 - Upgrade @types/node
 - Upgrade @types/react
 - Upgrade @types/styled-components
 - Upgrade @typescript-eslint/eslint-plugin
 - Upgrade @typescript-eslint/parser
 - Upgrade cypress
+- Upgrade eslint-config-next
 - Upgrade eslint-plugin-prettier
 - Upgrade eslint-plugin-react
 - Upgrade jest
+- Upgrade next
+- Upgrade prettier
 
 ### Changed
 
