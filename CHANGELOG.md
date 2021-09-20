@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file. The format 
 - Upgrade @storybook/addon-essentials
 - Upgrade @storybook/react
 - Upgrade @testing-library/cypress
+- Upgrade @testing-library/react
 - Upgrade @types/node
 - Upgrade @types/react
 - Upgrade @types/styled-components
@@ -22,6 +23,7 @@ All notable changes to this project will be documented in this file. The format 
 - Upgrade jest
 - Upgrade next
 - Upgrade prettier
+- Upgrade typescript
 
 ### Changed
 
