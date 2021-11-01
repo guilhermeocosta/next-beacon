@@ -33,7 +33,7 @@
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-transform-react-jsx": "^7.14.9",
-    "@babel/preset-typescript": "^7.15.0",
+    "@babel/preset-typescript": "^7.16.0",
     "@storybook/addon-essentials": "^6.3.12",
     "@storybook/react": "^6.3.8",
     "@testing-library/cypress": "^8.0.1",
