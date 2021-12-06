@@ -3140,7 +3140,7 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.27.tgz#5054610d37bb5f6e21342d0e6d24c494231f3b85"
   integrity sha512-94+Ahf9IcaDuJTle/2b+wzvjmutxXAEXU6O81JHblYXUg2BDG+dnBy7VxIPHKAyEEDHzCMQydTJuWvrE+Aanzw==
 
-"@types/node@^16.11.6":
+"@types/node@^16.11.10":
   version "16.11.11"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.11.tgz#6ea7342dfb379ea1210835bada87b3c512120234"
   integrity sha512-KB0sixD67CeecHC33MYn+eYARkqTheIRNuu97y2XMjR7Wu3XibO1vaY6VBV6O/a89SPI81cEUIYT87UqUWlZNw==
@@ -4977,10 +4977,10 @@ chownr@^2.0.0:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-2.0.0.tgz#15bfbe53d2eab4cf70f18a8cd68ebe5b3cb1dece"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
-chromatic@^6.0.6:
-  version "6.0.6"
-  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.0.6.tgz#f0e6343c322ca6b838f61b1559f25ff0d4df7a8c"
-  integrity sha512-px0i8VDjCCMtAq8Oxo++tQb8/ADuE54Cy3VCAMpdYyT/4Vly8nmJbdxDx/YzJwhSD+w1uUurh18DA9AZQ/xW0A==
+chromatic@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.1.0.tgz#0228eba1a01f713a3f5109b7e4f4dbaa4e1a5169"
+  integrity sha512-XJT0VIOKYE9RwKTAOcLVpoYqJCU3/+58gOd8Why12sef6WJ7qjeO4c2Vn5ngpM+9A9PwE+y+ULQS25ThSd6WNA==
 
 chrome-trace-event@^1.0.2:
   version "1.0.3"
