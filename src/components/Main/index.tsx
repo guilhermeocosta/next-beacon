@@ -9,6 +9,7 @@ const Main = ({
       src="/images/logo.svg"
       alt="Vector of a Penrose Square with Next Beacon written on the right side"
     />
+
     <S.Description>{description}</S.Description>
 
     <S.Link href="https://github.com/guilhermeocosta/next-beacon">
