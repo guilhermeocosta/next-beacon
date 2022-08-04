@@ -27,7 +27,8 @@
     "plugins": [
         "react",
         "react-hooks",
-        "@typescript-eslint"
+        "@typescript-eslint",
+        "simple-import-sort"
     ],
     "rules": {
       "react-hooks/rules-of-hooks": "error",
@@ -35,6 +36,28 @@
       "react/display-name": "off",
       "react/prop-types": "off",
       "react/react-in-jsx-scope": "off",
-      "@typescript-eslint/explicit-module-boundary-types": "off"
+      "@typescript-eslint/explicit-module-boundary-types": "off",
+      "simple-import-sort/imports": ["error", {
+        "groups": [
+          ["^react", "^@?\\w"],
+          ["^models"],
+          ["^types"],
+          ["^hooks"],
+          ["^utils"],
+          ["^mocks"],
+          ["^layouts"],
+          ["^templates"],
+          ["^components"],
+          ["^partials"],
+          ["^..\/"],
+          ["^.\/"],
+          ["^.\/styles"]
+        ]
+      }],
+      "padding-line-between-statements": [
+        "error",
+        { "blankLine": "always", "prev": "*", "next": ["return", "block-like", "multiline-block-like", "expression", "multiline-expression"] }
+      ],
+      "react/jsx-newline": ["error", { "prevent": false }]
     }
 }
