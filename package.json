@@ -47,7 +47,7 @@
     "@typescript-eslint/parser": "^5.41.0",
     "babel-loader": "^8.2.5",
     "babel-plugin-styled-components": "^2.0.7",
-    "chromatic": "^6.11.2",
+    "chromatic": "^6.11.3",
     "cypress": "^10.8.0",
     "eslint": "^8.26.0",
     "eslint-config-next": "^12.3.1",

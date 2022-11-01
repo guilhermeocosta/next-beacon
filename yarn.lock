@@ -1682,12 +1682,7 @@
     debug "^3.1.0"
     lodash.once "^4.1.1"
 
-"@discoveryjs/json-ext@^0.5.3":
-  version "0.5.5"
-  resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.5.tgz#9283c9ce5b289a3c4f61c12757469e59377f81f3"
-  integrity sha512-6nFkfkmSeV/rqSaS4oWHgmpnYw194f6hmWF5is6b0J1naJZoiD0NTc9AiUwPHvWsowkjuHErCZT1wa0jg+BLIA==
-
-"@discoveryjs/json-ext@^0.5.7":
+"@discoveryjs/json-ext@^0.5.3", "@discoveryjs/json-ext@^0.5.7":
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
@@ -3521,12 +3516,7 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
-"@types/webpack-env@^1.16.0":
-  version "1.16.3"
-  resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.16.3.tgz#b776327a73e561b71e7881d0cd6d34a1424db86a"
-  integrity sha512-9gtOPPkfyNoEqCQgx4qJKkuNm/x0R2hKR7fdl7zvTJyHnIisuE/LfvXOsYWL0o3qq6uiBnKZNNNzi3l0y/X+xw==
-
-"@types/webpack-env@^1.17.0":
+"@types/webpack-env@^1.16.0", "@types/webpack-env@^1.17.0":
   version "1.17.0"
   resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.17.0.tgz#f99ce359f1bfd87da90cc4a57cab0a18f34a48d0"
   integrity sha512-eHSaNYEyxRA5IAG0Ym/yCyf86niZUIF/TpWKofQI/CVfh5HsMEUyfE2kwFxha4ow0s5g0LfISQxpDKjbRDrizw==
@@ -5339,10 +5329,10 @@ chownr@^2.0.0:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-2.0.0.tgz#15bfbe53d2eab4cf70f18a8cd68ebe5b3cb1dece"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
-chromatic@^6.11.2:
-  version "6.11.2"
-  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.11.2.tgz#ecfae754cb09c8f1305e589d9c38785ec7a8d9c8"
-  integrity sha512-NdG/BCmHG1mn99ZAEDEEaxefV/zrhwBPqniGqAVVfcS9e4Ufq6ykUAstDPSpn2Q3qSRHdcvLQNucrKPeHe43uw==
+chromatic@^6.11.3:
+  version "6.11.3"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.11.3.tgz#785a90f4fbcddeda7e778476724c359450e28b6c"
+  integrity sha512-O6ix4jxg6/fLnFqGrirlX9PoP9MuA1c3z9A8i9WzjQx9eJ3hj94wAITW7TtnC1yeEh01WiG/e+3qTd7DjRGTrQ==
   dependencies:
     "@discoveryjs/json-ext" "^0.5.7"
     "@types/webpack-env" "^1.17.0"
